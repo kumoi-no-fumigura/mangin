@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/mangin",
  "yomi": "まんぎんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸前期",
+  "author": "契沖（1640〜1701）",
+  "desc": "国学の祖とされる契沖の家集。序は、風雅集・玉葉集を学んだうえで独自の姿を得た歌風をたたえ、俳諧めいた歌があることも擁護する。"
+ },
  "editions": [
   {
    "pid": "993379",
